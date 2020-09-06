@@ -3,7 +3,7 @@ maincss.css
 
 
 /*Style the 3 div tags in all 3 htmls*/
-div {  
+div.links {  
 color: #00ff80; }
 
 
@@ -31,3 +31,5 @@ span {
 
 /*resize the heatran image
 use the @media rule to modify some attribute for small screens*/
+
+
