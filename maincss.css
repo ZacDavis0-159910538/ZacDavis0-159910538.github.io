@@ -31,7 +31,17 @@ span {
 .battleleague {
     color:yellow
 }
+a:hover {
+    background-color:black
+}
+p:hover {
+    background-color:blue
+}
 
+@media only screen and (max-width: 500px) {
+    p {
+      background-color: rgb(38, 142, 177);
+    }
 /*use :hover selector on at least one :targetDefine at least 2 class selectors*/
 
 /*resize the heatran image
