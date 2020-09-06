@@ -21,7 +21,12 @@ span {
   
 /* set the color of the <a> tag */
 
-
+.assignment1 {
+    color:pink
+}
+.assignment2 {
+    color:grey
+}
 
 .battleleague {
     color:yellow
