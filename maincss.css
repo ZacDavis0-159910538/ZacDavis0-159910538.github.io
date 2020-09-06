@@ -1,1 +1,35 @@
 maincss.css
+
+
+
+/*Style the 3 div tags in all 3 htmls*/
+div {  
+color: #00ff80; }
+
+
+
+/*style the span tags in the 3 htmls (2nd and 3rd use same) */
+
+a {
+    color: #0000FF; 
+} 
+
+span {
+    color: #751165
+}
+    
+  
+/* set the color of the <a> tag */
+
+
+
+.class {
+pageheader:
+
+
+
+
+/*use :hover selector on at least one :targetDefine at least 2 class selectors*/
+
+/*resize the heatran image
+use the @media rule to modify some attribute for small screens*/
